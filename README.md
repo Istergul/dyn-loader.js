@@ -2,7 +2,7 @@
 dyn-loader.js allows you to dynamically load js and css files onto the page.
 Files are loaded sequentially.
 JS files loaded as the last childs body node. 
-JS files loaded as the last childs head node. 
+CSS files loaded as the last childs head node. 
 
 ## Examples
 
